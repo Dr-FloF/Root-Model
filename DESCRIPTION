@@ -11,11 +11,6 @@ Description: Pedagogic model based on archisimple
     model
 License: What license it uses
 Depends: 
-    dataRetrieval,
-    dplyr,
-    ggplot2,
-    lubridate,
-    tidyr,
-    viridis
+    shiny
 Encoding: UTF-8
 LazyData: true
