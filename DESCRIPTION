@@ -11,6 +11,6 @@ Description: Pedagogic model based on archisimple
     model
 License: What license it uses
 Depends: 
-    shiny
+    ade4
 Encoding: UTF-8
 LazyData: true
